@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+  <testsuite>
+<testcase classname="assets.dev.js.main" name="main:0:0"></testcase>
+<testcase classname="assets.dev.js.modules.test" name="test:0:0"></testcase>
+  </testsuite>
+</testsuites>

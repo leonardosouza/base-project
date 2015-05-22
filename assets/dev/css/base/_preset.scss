@@ -1,0 +1,9 @@
+/* clearfix - http://www.webtoolkit.info/css-clearfix.html */
+.clearfix:after{content:".";display:block;clear:both;visibility:hidden;line-height:0;height:0}.clearfix{display:block}html[xmlns] .clearfix{displaqy:block}* html .clearfix{height:1%}
+
+/* util classes */
+.ir{display:block;font-size:1px;text-indent:-9000px;}
+.show{display:block;}
+.hide{display:none;}
+.hidden{visibility:hidden;}
+.noselect{-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
